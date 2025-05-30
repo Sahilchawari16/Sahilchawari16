@@ -38,7 +38,7 @@
 
 ### GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sahilchawari16&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchawari16&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook)](https://github.com/sahilchawari16)
 
 ---
 

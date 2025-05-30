@@ -32,13 +32,13 @@
 ### GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilchawari16&show_icons=true&theme=dracula&hide_border=true)](https://github.com/sahilchawari16)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchawari16&layout=compact&theme=dracula&hide_border=true)](https://github.com/sahilchawari16)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchawari16&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook)](https://github.com/sahilchawari16)
 
 ---
 
 ### GitHub Trophies
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchawari16&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook)](https://github.com/sahilchawari16)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahilchawari16&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 

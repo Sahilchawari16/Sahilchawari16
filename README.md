@@ -2,10 +2,10 @@
 
 ### About Me
 
-- 🔭 I’m currently building awesome things with **Next.js** and **NestJS**.
+- 🔭 I’m currently building awesome things with **Next.js** and **React**.
 - 🌱 I’m currently learning more about advanced **PostgreSQL** optimizations and distributed systems.
 - 👯 I’m looking to collaborate on open-source projects that push the boundaries of web development.
-- 💬 Ask me about **TypeScript**, **React**, **Node.js**, or anything related to building scalable web applications.
+- 💬 Ask me about **TypeScript**, **Database**, **Node.js**, or anything related to building scalable web applications.
 - 📫 How to reach me: sahilchawari16@gmail.com / https://www.linkedin.com/in/sahilchawari/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once debugged a tricky **Docker** networking issue for 8 hours straight and celebrated with pizza!
@@ -19,7 +19,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

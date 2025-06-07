@@ -3,7 +3,7 @@
 ### About Me
 
 - 🔭 I’m currently building awesome things with **Next.js** and **React**.
-- 🌱 I’m currently learning more about advanced **PostgreSQL** optimizations and distributed systems.
+- 🌱 I’m currently learning more about advanced **PostgreSQL** optimizations and distributed systems. 
 - 👯 I’m looking to collaborate on open-source projects that push the boundaries of web development.
 - 💬 Ask me about **TypeScript**, **Database**, **Node.js**, or anything related to building scalable web applications.
 - 📫 How to reach me: sahilchawari16@gmail.com / https://www.linkedin.com/in/sahilchawari/
